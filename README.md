@@ -3,7 +3,7 @@
 
 An engaging web application that helps users improve their English language skills through interactive sentence construction exercises. Users must complete sentences by selecting appropriate words from given options, testing their understanding of context, grammar, and vocabulary.
 
-![Game Screenshot](https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=1200)
+![Game Screenshot](https://github.com/user-attachments/assets/67b5c1ee-8e7b-4784-8651-858f2f03f575)
 
 ## Features
 
@@ -118,6 +118,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Abhyuday
 
-Project Link: [https://github.com/yourusername/interactive-sentence-game](https://github.com/yourusername/interactive-sentence-game)
+Project Link: [https://github.com/Abhyuday2807
